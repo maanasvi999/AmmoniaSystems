@@ -1,5 +1,5 @@
 # AmmoniaSystems
-Ammonia level checking systems in Poultry Farms
+Ammonia level checking systems in Poultry Farms.
 Ammonia excreted by poultry animals affects their health adversely. 
 In order to prevent this, an Ammonia Detection System can be employed and monitored.
 In order to implement this, the hardware used in this project is NodeMCU, MQ 135 Gas Sensor and DHT11 sensor and the software used is Arduino, IBM Watson Cloud Platform and a UI. The gas sensor used helps check the ammonia level present in the farm area. The DHT11 sensor helps monitor the temperature and humidity in the farm.
